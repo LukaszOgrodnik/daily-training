@@ -6,3 +6,6 @@ https://edabit.com/challenge/GogZCM8AW4aJk4aPL
 
 Exercise 2: Caesar's Cipher:
 https://edabit.com/challenge/GmPfqu2jmLDBD2NYS
+
+Exercise 3: Chess Pieces:
+https://edabit.com/challenge/DqaLizN7DtKDRRrxv
